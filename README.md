@@ -1,2 +1,3 @@
 # goober_alphabet
-want a break from the ads?
+you do python3 game.py
+                  that's it.
